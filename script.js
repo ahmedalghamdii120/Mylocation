@@ -61,7 +61,7 @@ const projectsData = [
         category: 'mobile',
         technologies: ['Flutter', 'Dart', 'SQLite'],
         icon: '💪',
-        github: '#',
+        github: 'https://ahmedalghamdii120.github.io/-/',
         demo: '#'
     }
 ];
